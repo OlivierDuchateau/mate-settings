@@ -24,6 +24,9 @@ numlock-state='on'
 [org.mate.panel]
 default-layout='one-panel'
 
+[org.mate.panel.applet.clock]
+show-date=false
+
 [org.mate.pluma]
 bracket-matching=true
 highlight-current-line=true

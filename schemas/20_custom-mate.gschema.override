@@ -22,7 +22,7 @@ cursor-theme='adwaita'
 numlock-state='on'
 
 [org.mate.panel]
-default-layout='top-panel'
+default-layout='one-panel'
 
 [org.mate.pluma]
 bracket-matching=true

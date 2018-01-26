@@ -29,3 +29,6 @@ bracket-matching=true
 highlight-current-line=true
 max-recents=1
 display-line-numbers=true
+
+[com.solus-project.brisk-menu]
+rollover-activate=true
